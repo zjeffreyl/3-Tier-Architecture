@@ -1,5 +1,5 @@
 # 3-Tier-Architecture
-Java Servlet Page for a virtual three architecture
+Java Servlet Page for a virtual three tiered architecture
 
 This is an example of a Java Servlet Page (JSP) that is used in a three-their architecture for a database application.
 
